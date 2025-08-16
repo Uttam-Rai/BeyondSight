@@ -13,7 +13,7 @@ Beyond Sight is a groundbreaking project designed to empower the visually impair
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/kvithana/beyond-sight.git
+git clone https://github.com/Uttam-Rai/BeyondSight.git
 ```
 
 **2. Install dependencies:**
